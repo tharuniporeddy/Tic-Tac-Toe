@@ -15,12 +15,11 @@ A simple **Tic-Tac-Toe** game built using **HTML, CSS, and JavaScript**. Two pla
 ---
 
 ## 📸 Screenshots
+### Game Start (No Moves)
+![Game Start](Game%20Start.png)
 
-### ▶️ Game Start  
-![Initial Screen](Game Start.png)
-
-### 🎉 Win Example  
-![Win Screen](Win Example.png)
+### Win Example (Player Wins)
+![Win Example](Win%20Example.png)
 
 ---
 
