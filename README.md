@@ -17,10 +17,10 @@ A simple **Tic-Tac-Toe** game built using **HTML, CSS, and JavaScript**. Two pla
 ## 📸 Screenshots
 
 ### ▶️ Game Start  
-![Initial Screen](screenshots/Game%20Start.png)
+![Initial Screen](Game Start.png)
 
 ### 🎉 Win Example  
-![Win Screen](screenshots/Win%20Example.png)
+![Win Screen](Win Example.png)
 
 ---
 
